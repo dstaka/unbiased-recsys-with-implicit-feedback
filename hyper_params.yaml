@@ -1,0 +1,122 @@
+coat:
+  both:
+    dim: 5.0
+    lam: 1.0375839939562662e-06
+  both-at:
+    dim: 40.0
+    epsilon: 0.02020810822033513
+    lam: 1.173308392199057e-06
+  both-without_ipw:
+    dim: 5.0
+    lam: 1.0255223785962005e-06
+  item:
+    dim: 5.0
+    lam: 1.0375839939562662e-06
+  item-at:
+    dim: 40.0
+    epsilon: 0.016566137747549402
+    lam: 1.0203496299181042e-06
+  item-without_ipw:
+    dim: 10.0
+    lam: 0.010064543944062828
+  nb:
+    dim: 50.0
+    lam: 0.0030830628433828537
+  nb-at:
+    dim: 5.0
+    epsilon: 0.3652389909987681
+    lam: 5.0816855783313745e-06
+  nb-without_ipw:
+    dim: 50.0
+    lam: 0.0030830628433828537
+  nb_true:
+    dim: 5.0
+    lam: 0.001971959151305676
+  nb_true-at:
+    dim: 20.0
+    epsilon: 0.16376442797241736
+    lam: 0.0010069424705032128
+  nb_true-without_ipw:
+    dim: 5.0
+    lam: 0.001971959151305676
+  uniform:
+    dim: 15.0
+    lam: 0.0020318358298265986
+  uniform-at:
+    dim: 5.0
+    epsilon: 0.4497077480658323
+    lam: 1.1472419084164979e-05
+  uniform-without_ipw:
+    dim: 15.0
+    lam: 0.0020318358298265986
+  user:
+    dim: 5.0
+    lam: 1.0255223785962005e-06
+  user-at:
+    dim: 35.0
+    epsilon: 0.970781395755172
+    lam: 1.0286186175477964e-06
+  user-without_ipw:
+    dim: 15.0
+    lam: 1.0326376184679984e-06
+yahoo:
+  both:
+    dim: 5.0
+    lam: 6.029065904770287e-05
+  both-at:
+    dim: 50.0
+    epsilon: 0.43509815902193866
+    lam: 1.10030009629288e-05
+  both-without_ipw:
+    dim: 5.0
+    lam: 6.029065904770287e-05
+  item:
+    dim: 5.0
+    lam: 3.86930121605929e-05
+  item-at:
+    dim: 40.0
+    epsilon: 0.00822507197062529
+    lam: 3.45133291759994e-06
+  item-without_ipw:
+    dim: 5.0
+    lam: 3.86930121605929e-05
+  nb:
+    dim: 5.0
+    lam: 3.3094764040486307e-05
+  nb-at:
+    dim: 40.0
+    epsilon: 0.008650945601051025
+    lam: 2.2831493593041397e-06
+  nb-without_ipw:
+    dim: 5.0
+    lam: 3.3094764040486307e-05
+  nb_true:
+    dim: 5.0
+    lam: 2.0260247621551667e-05
+  nb_true-at:
+    dim: 40.0
+    epsilon: 0.8958374751014815
+    lam: 1.170182346022389e-05
+  nb_true-without_ipw:
+    dim: 5.0
+    lam: 2.0260247621551667e-05
+  uniform:
+    dim: 5.0
+    lam: 2.8079644442235744e-05
+  uniform-at:
+    dim: 40.0
+    epsilon: 0.008650945601051025
+    lam: 2.2831493593041397e-06
+  uniform-without_ip:
+    dim: 5.0
+    lam: 2.8079644442235744e-05
+  user:
+    dim: 45.0
+    lam: 3.3251746171392934e-05
+  user-at:
+    dim: 40.0
+    epsilon: 0.008650945601051025
+    lam: 2.2831493593041397e-06
+  user-without_ip:
+    dim: 45.0
+    lam: 3.3251746171392934e-05
