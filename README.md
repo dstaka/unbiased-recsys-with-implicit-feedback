@@ -3,11 +3,11 @@
 
 ### About
 This repository is to manage code of my private project which is presented at the 18th School of Computing Term Project Showcase (STePS) of National University of Singapore (NUS).  
-The project is inspired by these academic researches published by [Yuta Saito](https://usaito.github.io/). Also, experimentation code in the repository is based on his code in GitHub.
+The project is inspired by these academic researches published by [Yuta Saito](https://usaito.github.io/). Also, experimentation code in the repository is based on his code in GitHub. If you find this project interesting, please also refer his original papers and codes in his GitHub.
 - "**Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback**", which has been accepted at [WSDM'20](http://www.wsdm-conference.org/2020/index.php). ([_code in GitHub_](https://github.com/usaito/unbiased-implicit-rec-real))
 - "**Unbiased Pairwise Learning from Biased Implicit Feedback**", which has been accepted by [ICTIR'20](https://ictir2020.org/). ([_code in GitHub_](https://github.com/usaito/unbiased-pairwise-rec))
 - "**Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback**", which has been accepted at [SIGIR2020](https://sigir.org/sigir2020/) as a full paper. ([_code in GitHub_](https://github.com/usaito/asymmetric-tri-rec-real))
-If you find this project interesting, please refer his original papers and codes in his GitHub.
+
 
 ### Dependencies
 
